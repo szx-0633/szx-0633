@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szx-0633&label=Profile%20views&color=0e75b6&style=flat" alt="szx-0633" /> </p>
 
 ### Education: 
-- Currently a first-year guaduate student from Wuhan University, China (Expected graduction time: June 2026)
+- Currently a first-year graduate student from Wuhan University, China (Expected graduation time: June 2026)
 - B.E. from School of Geodesy and Geomatics, Wuhan University (2020 to 2024)
 - National Scholarship(2021-2022 & 2022-2023), Outstanding graduate student of WHU
 
